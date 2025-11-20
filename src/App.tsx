@@ -4,7 +4,7 @@ function App() {
   const [showMessage, setShowMessage] = useState(false);
 
   const toggleMessage = () => {
-    setShowMessage(!setShowMessage);
+    setShowMessage(!showMessage);
   }
   return (
     <div className="App">
