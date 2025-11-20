@@ -12,7 +12,7 @@ function App() {
         <p>Esta es una página para ilustrar el despliegue en Github Pages usando Github Actions</p>
         
         <button onClick={toggleMessage}>
-          {showMessage ? "Ocultar Mensaje" : "Mostrar Mensaje"}
+          {showMessage ? "Ocultar Mensaje" : "Mostrar Mansaje"}
         </button>
         {
           showMessage  && (
