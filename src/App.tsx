@@ -8,7 +8,7 @@ function App() {
   }
   return (
     <div className="App">
-        <h1>Bienivo a mi Ap-licacion React- conh Typescript</h1>
+        <h1>Bienvenido a mi Aplicacion React con Typescript</h1>
         <p>Esta es una pagina para iluestrar el despliegue en Github Pages usando Github Actions</p>
         
         <button onClick={toggleMessage}>
