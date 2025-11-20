@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
         <h1>Bienvenido a mi Aplicacion React con Typescript</h1>
-        <p>Esta es una pagina para iluestrar el despliegue en Github Pages usando Github Actions</p>
+        <p>Esta es una página para ilustrar el despliegue en Github Pages usando Github Actions</p>
         
         <button onClick={toggleMessage}>
           {showMessage ? "Ocultar Mensaje" : "Mostrar Mensaje"}
